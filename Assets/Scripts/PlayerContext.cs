@@ -35,6 +35,7 @@ public class RiverState : PlayerState
     public RiverState(NetworkBehaviour thisObj) : base(thisObj)
     {
         stateName = "RiverLevel";
+        GameData.gamePlayStart = Time.time;
     }
      public override void Start()
     {
@@ -54,19 +55,7 @@ public class RiverState : PlayerState
         direction = new Vector3(horMove, 0, verMove);
     }
 
-    /*void OnDrawGizmos()
-    {
-        Gizmos.color = Color.yellow;
-        Gizmos.DrawRay(player.transform.position, direction * 10);
-        Gizmos.color = Color.magenta;
-        Gizmos.DrawRay(player.transform.position, rbPlayer.velocity * 5);
-        Gizmos.color = Color.cyan;
-        Gizmos.DrawWireCube(player.transform.position, new Vector3(6, 6, 6));
-    }*/
-
-
-
-    public override void FixedUpdate()
+     public override void FixedUpdate()
     {
         rbPlayer.AddForce(direction * speed, ForceMode.Force);
 
@@ -211,7 +200,14 @@ public class ForestState : PlayerState
             //lookTarget.position = other.transform.position;
             thisObject.StartCoroutine(LookAndLookAway(lookTarget.position, other.transform.position));
         }
+
+       if (other.CompareTag("Exit"))
+        {
+            NetworkManager networkManager = GameObject.Find("NetworkManager").GetComponent<NetworkManager>();
+            networkManager.ServerChangeScene("EndScene");
+        }
     }
+
 
     public override void OnTriggerExit(Collider other)
     {
@@ -256,12 +252,19 @@ public class PlayerContext : NetworkBehaviour
         {
             currentState = new RiverState(this);
         }
-        if(SceneManager.GetActiveScene().name == "ForestLevel")
+        else if(SceneManager.GetActiveScene().name == "ForestLevel")
         {
             currentState = new ForestState(this);
         }
+        else
+        {
+            this.gameObject.SetActive(false);
+        }
 
-        currentState.Start();
+        if(currentState != null)
+        {
+            currentState.Start();
+        }
     }
 
     // Update is called once per frame

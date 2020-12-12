@@ -21,6 +21,10 @@ public class ScoreList : MonoBehaviour
     public string fileName;
     public GameObject input;
 
+    public GameObject finalPanel;
+    public GameObject scorePanel;
+
+    public GameObject entryPrefab;
     // Start is called before the first frame update
     void Start()
     {
@@ -60,7 +64,28 @@ public class ScoreList : MonoBehaviour
         //Time get current time and sub gamePlayStart
         float time = Time.time - GameData.gamePlayStart;
 
-        scores.Add(new Score(name, time));
+        scores.Insert(0, new Score(name, time));
+
+        int offset = 50;
+
+        foreach(Score score in scores)
+        {
+            GameObject temp = Instantiate(entryPrefab);
+            Transform[] children = temp.GetComponentsInChildren<Transform>();
+            children[1].GetComponent<TextMeshProUGUI>().text = score.name;
+            children[2].GetComponent<TextMeshProUGUI>().text = score.time.ToString("F2");
+
+            temp.transform.SetParent(scorePanel.transform);
+            RectTransform rtrans = temp.GetComponent<RectTransform>();
+            rtrans.anchorMin = new Vector2(0.5f, 0.5f);
+            rtrans.anchorMax = new Vector2(0.5f, 0.5f);
+            rtrans.pivot = new Vector2(0.5f, 0.5f);
+            rtrans.localPosition = new Vector3(0, offset, 0);
+            offset -= 35; 
+        }
+
+        finalPanel.SetActive(false);
+        scorePanel.SetActive(true);
     }
 
     private void OnDestroy()

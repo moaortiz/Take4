@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Rabbits\Demo\Scripts\AnimatorParamatersChange.cs" />
+    <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\CountGUI.cs" />
     <Compile Include="Assets\Scripts\Drift.cs" />
     <Compile Include="Assets\Scripts\Forest\BearBrain.cs" />
@@ -80,6 +81,7 @@
     <Compile Include="Assets\Scripts\InventoryGUI.cs" />
     <Compile Include="Assets\Scripts\Item.cs" />
     <Compile Include="Assets\Scripts\ItemCollect.cs" />
+    <Compile Include="Assets\Scripts\PauseMenuManager.cs" />
     <Compile Include="Assets\Scripts\PlayerContext.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Quit.cs" />

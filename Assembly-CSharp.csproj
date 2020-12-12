@@ -79,8 +79,10 @@
     <Compile Include="Assets\Scripts\InventoryGUI.cs" />
     <Compile Include="Assets\Scripts\Item.cs" />
     <Compile Include="Assets\Scripts\ItemCollect.cs" />
+    <Compile Include="Assets\Scripts\PlayerContext.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Quit.cs" />
+    <Compile Include="Assets\Scripts\RemoveNetworkHud.cs" />
     <Compile Include="Assets\Scripts\SpawnManager.cs" />
     <None Include="Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

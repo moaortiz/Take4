@@ -13,11 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-12-07T11:25:54.511-08:00
-  initializedAtString: 2020-12-07T11:25:54.503-08:00
-  localBranches: []
+  lastUpdatedAtString: 2020-12-12T10:16:16.883-08:00
+  initializedAtString: 2020-12-12T10:15:58.837-08:00
+  localBranches:
+  - name: main
+    tracking: origin/main
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
@@ -28,17 +32,29 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - main
+    values:
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/moaortiz/Take4.git
+      trackingBranch: main
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - HEAD
+      - main
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/moaortiz/Take4.git
+        trackingBranch: 
+      - name: main
         remote:
           name: origin
           url: https://github.com/moaortiz/Take4.git

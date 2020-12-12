@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-12-12T10:15:12.833-08:00
+  lastUpdatedAtString: 2020-12-12T12:02:21.927-08:00
   initializedAtString: 2020-12-12T08:33:42.909-08:00
   entries:
   - path: .vs\Take4\v16\.suo
@@ -30,31 +30,17 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
+  - path: Assets\Prefabs\LilyPad_1.prefab
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      1\Lesson1_V3\Take4\Assets\Prefabs\LilyPad_1.prefab
+    projectPath: Assets\Prefabs\LilyPad_1.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Materials\White.mat
+  - path: Assets\Prefabs\Player.prefab
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Materials\White.mat
-    projectPath: Assets\Materials\White.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Rabbits\Materials\Rabbit_Eyes.mat
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Rabbits\Materials\Rabbit_Eyes.mat
-    projectPath: Assets\Rabbits\Materials\Rabbit_Eyes.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Rabbits\Materials\Rabbit1.mat
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Rabbits\Materials\Rabbit1.mat
-    projectPath: Assets\Rabbits\Materials\Rabbit1.mat
+      1\Lesson1_V3\Take4\Assets\Prefabs\Player.prefab
+    projectPath: Assets\Prefabs\Player.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -65,552 +51,174 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scenes\ForestLevel\NavMesh.asset
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Scenes\ForestLevel\NavMesh.asset
-    projectPath: Assets\Scenes\ForestLevel\NavMesh.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets\Scenes\RiverLevel.unity
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
       1\Lesson1_V3\Take4\Assets\Scenes\RiverLevel.unity
     projectPath: Assets\Scenes\RiverLevel.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\RiverLevel.unity.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Scenes\RiverLevel.unity.meta
-    projectPath: Assets\Scenes\RiverLevel.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\SampleScene.unity
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Scenes\SampleScene.unity
-    projectPath: Assets\Scenes\SampleScene.unity
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scenes\SampleScene.unity.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Scenes\SampleScene.unity.meta
-    projectPath: Assets\Scenes\SampleScene.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Assets\Scenes\StartScene.unity
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
       1\Lesson1_V3\Take4\Assets\Scenes\StartScene.unity
     projectPath: Assets\Scenes\StartScene.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\StartScene.unity.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Scenes\StartScene.unity.meta
-    projectPath: Assets\Scenes\StartScene.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Forest\NavPlayerMovement.cs
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Scripts\Forest\NavPlayerMovement.cs
-    projectPath: Assets\Scripts\Forest\NavPlayerMovement.cs
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Shaders\RiverWaterMat.mat
+  - path: Assets\Scripts\PlayerContext.cs
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Shaders\RiverWaterMat.mat
-    projectPath: Assets\Shaders\RiverWaterMat.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\TallForestPine.prefab
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\TallForestPine.prefab
-    projectPath: Assets\TallForestPine.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\TallForestPine_Textures.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures.meta
-    projectPath: Assets\TallForestPine_Textures.meta
+      1\Lesson1_V3\Take4\Assets\Scripts\PlayerContext.cs
+    projectPath: Assets\Scripts\PlayerContext.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\TallForestPine_Textures\diffuse.png
+  - path: Assets\Scripts\PlayerContext.cs.meta
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\diffuse.png
-    projectPath: Assets\TallForestPine_Textures\diffuse.png
+      1\Lesson1_V3\Take4\Assets\Scripts\PlayerContext.cs.meta
+    projectPath: Assets\Scripts\PlayerContext.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\TallForestPine_Textures\diffuse.png.meta
+  - path: Assets\Scripts\RemoveNetworkHud.cs
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\diffuse.png.meta
-    projectPath: Assets\TallForestPine_Textures\diffuse.png.meta
+      1\Lesson1_V3\Take4\Assets\Scripts\RemoveNetworkHud.cs
+    projectPath: Assets\Scripts\RemoveNetworkHud.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\TallForestPine_Textures\normal_specular.png
+  - path: Assets\Scripts\RemoveNetworkHud.cs.meta
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\normal_specular.png
-    projectPath: Assets\TallForestPine_Textures\normal_specular.png
+      1\Lesson1_V3\Take4\Assets\Scripts\RemoveNetworkHud.cs.meta
+    projectPath: Assets\Scripts\RemoveNetworkHud.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\TallForestPine_Textures\normal_specular.png.meta
+  - path: Assets\Thaleah_PixelFont.meta
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\normal_specular.png.meta
-    projectPath: Assets\TallForestPine_Textures\normal_specular.png.meta
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont.meta
+    projectPath: Assets\Thaleah_PixelFont.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\TallForestPine_Textures\shadow.png
+  - path: Assets\Thaleah_PixelFont\Materials.meta
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\shadow.png
-    projectPath: Assets\TallForestPine_Textures\shadow.png
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Materials.meta
+    projectPath: Assets\Thaleah_PixelFont\Materials.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\TallForestPine_Textures\shadow.png.meta
+  - path: Assets\Thaleah_PixelFont\Materials\Thaleah_DemoBackground.png
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\shadow.png.meta
-    projectPath: Assets\TallForestPine_Textures\shadow.png.meta
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Materials\Thaleah_DemoBackground.png
+    projectPath: Assets\Thaleah_PixelFont\Materials\Thaleah_DemoBackground.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\TallForestPine_Textures\translucency_gloss.png
+  - path: Assets\Thaleah_PixelFont\Materials\Thaleah_DemoBackground.png.meta
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\translucency_gloss.png
-    projectPath: Assets\TallForestPine_Textures\translucency_gloss.png
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Materials\Thaleah_DemoBackground.png.meta
+    projectPath: Assets\Thaleah_PixelFont\Materials\Thaleah_DemoBackground.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\TallForestPine_Textures\translucency_gloss.png.meta
+  - path: Assets\Thaleah_PixelFont\Materials\ThaleahFat.mat
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\translucency_gloss.png.meta
-    projectPath: Assets\TallForestPine_Textures\translucency_gloss.png.meta
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Materials\ThaleahFat.mat
+    projectPath: Assets\Thaleah_PixelFont\Materials\ThaleahFat.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures.meta
+  - path: Assets\Thaleah_PixelFont\Materials\ThaleahFat.mat.meta
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon01.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon01.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon01.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon02.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon02.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon02.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon03.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon03.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon03.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon04.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon04.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon04.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon05.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon05.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon05.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\cracked_earth01.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\cracked_earth01.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\cracked_earth01.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\cracked_earth02.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\cracked_earth02.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\cracked_earth02.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\errosion01.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\errosion01.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\errosion01.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\errosion02.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\errosion02.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\errosion02.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\flat_mountain01.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\flat_mountain01.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\flat_mountain01.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\HeightmapTexture.preset
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\HeightmapTexture.preset
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\HeightmapTexture.preset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\HeightmapTexture.preset.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\HeightmapTexture.preset.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\HeightmapTexture.preset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\island01.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\island01.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\island01.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain01.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain01.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain01.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain02.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain02.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain02.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain03.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain03.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain03.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain04.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain04.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain04.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain05.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain05.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain05.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain06.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain06.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain06.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain07.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain07.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain07.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain08.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain08.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain08.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau01.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau01.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau01.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau02.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau02.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau02.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau03.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau03.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau03.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge_edge01.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge_edge01.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge_edge01.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge01.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge01.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge01.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge02.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge02.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge02.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge03.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge03.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge03.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge04.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge04.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge04.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge05.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge05.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge05.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge06.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge06.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge06.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\rolling_hills01.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\rolling_hills01.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\rolling_hills01.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\soft_peaks01.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\soft_peaks01.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\soft_peaks01.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\volcanic.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\volcanic.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\volcanic.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\volcano01.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\volcano01.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\volcano01.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\white_square.tif.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\white_square.tif.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\white_square.tif.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_canyon03.brush
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_canyon03.brush
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_canyon03.brush
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_crackedground01.brush
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_crackedground01.brush
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_crackedground01.brush
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_volcano02.brush
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_volcano02.brush
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_volcano02.brush
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\dirt.terrainlayer
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\dirt.terrainlayer
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\dirt.terrainlayer
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\moss.terrainlayer
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\moss.terrainlayer
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\moss.terrainlayer
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\rock.terrainlayer
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\rock.terrainlayer
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\rock.terrainlayer
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\sand.terrainlayer
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\sand.terrainlayer
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\sand.terrainlayer
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\scree.terrainlayer
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\scree.terrainlayer
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\scree.terrainlayer
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainTextures\Materials\sand_albedo.mat
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainTextures\Materials\sand_albedo.mat
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainTextures\Materials\sand_albedo.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt.meta
-    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Terrain\Terrain_0_0_b6bf2b11-159a-4549-b8a1-49d4d3f3087d.asset
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Terrain\Terrain_0_0_b6bf2b11-159a-4549-b8a1-49d4d3f3087d.asset
-    projectPath: Assets\Terrain\Terrain_0_0_b6bf2b11-159a-4549-b8a1-49d4d3f3087d.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Textures\PineLeafTexture.mat
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Textures\PineLeafTexture.mat
-    projectPath: Assets\Textures\PineLeafTexture.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Textures\PineTreeBarkBrown.mat
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Textures\PineTreeBarkBrown.mat
-    projectPath: Assets\Textures\PineTreeBarkBrown.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Tree_Textures\New Material.mat
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Tree_Textures\New Material.mat
-    projectPath: Assets\Tree_Textures\New Material.mat
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Materials\ThaleahFat.mat.meta
+    projectPath: Assets\Thaleah_PixelFont\Materials\ThaleahFat.mat.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Tree_Textures\New Material.mat.meta
+  - path: Assets\Thaleah_PixelFont\Materials\ThaleahFat.png
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Tree_Textures\New Material.mat.meta
-    projectPath: Assets\Tree_Textures\New Material.mat.meta
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Materials\ThaleahFat.png
+    projectPath: Assets\Thaleah_PixelFont\Materials\ThaleahFat.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Tree_Textures\normal_specular.png.meta
+  - path: Assets\Thaleah_PixelFont\Materials\ThaleahFat.png.meta
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Tree_Textures\normal_specular.png.meta
-    projectPath: Assets\Tree_Textures\normal_specular.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\URPTerrainMat.mat
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\URPTerrainMat.mat
-    projectPath: Assets\URPTerrainMat.mat
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Materials\ThaleahFat.png.meta
+    projectPath: Assets\Thaleah_PixelFont\Materials\ThaleahFat.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\URPTerrainMat.mat.meta
+  - path: Assets\Thaleah_PixelFont\Materials\ThaleahFat_TTF SDF.asset
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\URPTerrainMat.mat.meta
-    projectPath: Assets\URPTerrainMat.mat.meta
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Materials\ThaleahFat_TTF SDF.asset
+    projectPath: Assets\Thaleah_PixelFont\Materials\ThaleahFat_TTF SDF.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\AnnotationManager
+  - path: Assets\Thaleah_PixelFont\Materials\ThaleahFat_TTF SDF.asset.meta
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\AnnotationManager
-    projectPath: Library\AnnotationManager
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Materials\ThaleahFat_TTF SDF.asset.meta
+    projectPath: Assets\Thaleah_PixelFont\Materials\ThaleahFat_TTF SDF.asset.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\APIUpdater\project-dependencies.graph
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Thaleah_PixelFont\Materials\ThaleahFat_TTF.ttf
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Materials\ThaleahFat_TTF.ttf
+    projectPath: Assets\Thaleah_PixelFont\Materials\ThaleahFat_TTF.ttf
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Thaleah_PixelFont\Materials\ThaleahFat_TTF.ttf.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Materials\ThaleahFat_TTF.ttf.meta
+    projectPath: Assets\Thaleah_PixelFont\Materials\ThaleahFat_TTF.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Thaleah_PixelFont\Thaleah_Demo.unity
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Thaleah_Demo.unity
+    projectPath: Assets\Thaleah_PixelFont\Thaleah_Demo.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Thaleah_PixelFont\Thaleah_Demo.unity.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Thaleah_Demo.unity.meta
+    projectPath: Assets\Thaleah_PixelFont\Thaleah_Demo.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Thaleah_PixelFont\Thaleah_Readme.pdf
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Thaleah_Readme.pdf
+    projectPath: Assets\Thaleah_PixelFont\Thaleah_Readme.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Thaleah_PixelFont\Thaleah_Readme.pdf.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\Thaleah_Readme.pdf.meta
+    projectPath: Assets\Thaleah_PixelFont\Thaleah_Readme.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Thaleah_PixelFont\ThaleahFat.fontsettings
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\ThaleahFat.fontsettings
+    projectPath: Assets\Thaleah_PixelFont\ThaleahFat.fontsettings
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Thaleah_PixelFont\ThaleahFat.fontsettings.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Thaleah_PixelFont\ThaleahFat.fontsettings.meta
+    projectPath: Assets\Thaleah_PixelFont\ThaleahFat.fontsettings.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
       1\Lesson1_V3\Take4\Library\ArtifactDB
@@ -618,45 +226,17 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\3b\3b3b9e51257c79167270e4e74b4a1e39
+  - path: Library\EditorUserBuildSettings.asset
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\3b\3b3b9e51257c79167270e4e74b4a1e39
-    projectPath: Library\Artifacts\3b\3b3b9e51257c79167270e4e74b4a1e39
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\97\974ac254ec751bf8d45d6586e8daa241
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\97\974ac254ec751bf8d45d6586e8daa241
-    projectPath: Library\Artifacts\97\974ac254ec751bf8d45d6586e8daa241
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b8\b86ba4c4ef95087f2b64968737d2b40f
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\b8\b86ba4c4ef95087f2b64968737d2b40f
-    projectPath: Library\Artifacts\b8\b86ba4c4ef95087f2b64968737d2b40f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
+      1\Lesson1_V3\Take4\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\EditorUserSettings.asset
+  - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\EditorUserSettings.asset
-    projectPath: Library\EditorUserSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\expandedItems
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\expandedItems
-    projectPath: Library\expandedItems
+      1\Lesson1_V3\Take4\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -664,6 +244,13 @@ MonoBehaviour:
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
       1\Lesson1_V3\Take4\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -713,209 +300,6 @@ MonoBehaviour:
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
       1\Lesson1_V3\Take4\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
-    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
-    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
-    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll
-    projectPath: Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
-    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
-    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll
-    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.ShaderGraph.Utilities.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.ShaderGraph.Utilities.dll
-    projectPath: Library\ScriptAssemblies\Unity.ShaderGraph.Utilities.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TerrainTools.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.TerrainTools.dll
-    projectPath: Library\ScriptAssemblies\Unity.TerrainTools.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TerrainTools.Editor.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.TerrainTools.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TerrainTools.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptMapper
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptMapper
-    projectPath: Library\ScriptMapper
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache.db
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ShaderCache.db
-    projectPath: Library\ShaderCache.db
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -989,52 +373,17 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+  - path: ProjectSettings\EditorBuildSettings.asset
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
-    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+      1\Lesson1_V3\Take4\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\UIElements\EditorWindows\UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow.pref
+  - path: ProjectSettings\TagManager.asset
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\UIElements\EditorWindows\UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow.pref
-    projectPath: Library\UIElements\EditorWindows\UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow.pref
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Packages\manifest.json
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Packages\manifest.json
-    projectPath: Packages\manifest.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Packages\packages-lock.json
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Packages\packages-lock.json
-    projectPath: Packages\packages-lock.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\URPProjectSettings.asset
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\ProjectSettings\URPProjectSettings.asset
-    projectPath: ProjectSettings\URPProjectSettings.asset
+      1\Lesson1_V3\Take4\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

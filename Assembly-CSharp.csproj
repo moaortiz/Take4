@@ -287,6 +287,9 @@
     <Reference Include="UnityEditor">
       <HintPath>D:/Unity/2019.4.8f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst.Unsafe">
+      <HintPath>C:/Users/Crazy/Desktop/Fall '20 Classes/Mult 154 Unity/Unity Lesson 1/Lesson1_V3/Take4/Library/PackageCache/com.unity.burst@1.1.1/Unity.Burst.Unsafe.dll</HintPath>
+    </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:/Unity/2019.4.8f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
     </Reference>
@@ -709,6 +712,24 @@
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
       <HintPath>C:/Users/Crazy/Desktop/Fall '20 Classes/Mult 154 Unity/Unity Lesson 1/Lesson1_V3/Take4/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst">
+      <HintPath>C:/Users/Crazy/Desktop/Fall '20 Classes/Mult 154 Unity/Unity Lesson 1/Lesson1_V3/Take4/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Editor">
+      <HintPath>C:/Users/Crazy/Desktop/Fall '20 Classes/Mult 154 Unity/Unity Lesson 1/Lesson1_V3/Take4/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Animation.Rigging">
+      <HintPath>C:/Users/Crazy/Desktop/Fall '20 Classes/Mult 154 Unity/Unity Lesson 1/Lesson1_V3/Take4/Library/ScriptAssemblies/Unity.Animation.Rigging.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics">
+      <HintPath>C:/Users/Crazy/Desktop/Fall '20 Classes/Mult 154 Unity/Unity Lesson 1/Lesson1_V3/Take4/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Animation.Rigging.Editor">
+      <HintPath>C:/Users/Crazy/Desktop/Fall '20 Classes/Mult 154 Unity/Unity Lesson 1/Lesson1_V3/Take4/Library/ScriptAssemblies/Unity.Animation.Rigging.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+      <HintPath>C:/Users/Crazy/Desktop/Fall '20 Classes/Mult 154 Unity/Unity Lesson 1/Lesson1_V3/Take4/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>

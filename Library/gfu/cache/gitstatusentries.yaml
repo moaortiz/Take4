@@ -13,9 +13,597 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-12-07T11:36:17.396-08:00
-  initializedAtString: 2020-12-07T11:36:17.396-08:00
+  lastUpdatedAtString: 2020-12-12T10:15:12.833-08:00
+  initializedAtString: 2020-12-12T08:33:42.909-08:00
   entries:
+  - path: .vs\Take4\v16\.suo
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\.vs\Take4\v16\.suo
+    projectPath: .vs\Take4\v16\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Materials\White.mat
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Materials\White.mat
+    projectPath: Assets\Materials\White.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Rabbits\Materials\Rabbit_Eyes.mat
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Rabbits\Materials\Rabbit_Eyes.mat
+    projectPath: Assets\Rabbits\Materials\Rabbit_Eyes.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Rabbits\Materials\Rabbit1.mat
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Rabbits\Materials\Rabbit1.mat
+    projectPath: Assets\Rabbits\Materials\Rabbit1.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\ForestLevel.unity
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Scenes\ForestLevel.unity
+    projectPath: Assets\Scenes\ForestLevel.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\ForestLevel\NavMesh.asset
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Scenes\ForestLevel\NavMesh.asset
+    projectPath: Assets\Scenes\ForestLevel\NavMesh.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\RiverLevel.unity
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Scenes\RiverLevel.unity
+    projectPath: Assets\Scenes\RiverLevel.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\RiverLevel.unity.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Scenes\RiverLevel.unity.meta
+    projectPath: Assets\Scenes\RiverLevel.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\SampleScene.unity.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Scenes\SampleScene.unity.meta
+    projectPath: Assets\Scenes\SampleScene.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\StartScene.unity
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Scenes\StartScene.unity
+    projectPath: Assets\Scenes\StartScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\StartScene.unity.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Scenes\StartScene.unity.meta
+    projectPath: Assets\Scenes\StartScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Forest\NavPlayerMovement.cs
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Scripts\Forest\NavPlayerMovement.cs
+    projectPath: Assets\Scripts\Forest\NavPlayerMovement.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Shaders\RiverWaterMat.mat
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Shaders\RiverWaterMat.mat
+    projectPath: Assets\Shaders\RiverWaterMat.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\TallForestPine.prefab
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\TallForestPine.prefab
+    projectPath: Assets\TallForestPine.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\TallForestPine_Textures.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures.meta
+    projectPath: Assets\TallForestPine_Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TallForestPine_Textures\diffuse.png
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\diffuse.png
+    projectPath: Assets\TallForestPine_Textures\diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TallForestPine_Textures\diffuse.png.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\diffuse.png.meta
+    projectPath: Assets\TallForestPine_Textures\diffuse.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TallForestPine_Textures\normal_specular.png
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\normal_specular.png
+    projectPath: Assets\TallForestPine_Textures\normal_specular.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TallForestPine_Textures\normal_specular.png.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\normal_specular.png.meta
+    projectPath: Assets\TallForestPine_Textures\normal_specular.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TallForestPine_Textures\shadow.png
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\shadow.png
+    projectPath: Assets\TallForestPine_Textures\shadow.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TallForestPine_Textures\shadow.png.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\shadow.png.meta
+    projectPath: Assets\TallForestPine_Textures\shadow.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TallForestPine_Textures\translucency_gloss.png
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\translucency_gloss.png
+    projectPath: Assets\TallForestPine_Textures\translucency_gloss.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TallForestPine_Textures\translucency_gloss.png.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\TallForestPine_Textures\translucency_gloss.png.meta
+    projectPath: Assets\TallForestPine_Textures\translucency_gloss.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon01.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon01.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon01.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon02.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon02.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon02.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon03.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon03.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon03.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon04.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon04.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon04.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon05.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon05.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\canyon05.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\cracked_earth01.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\cracked_earth01.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\cracked_earth01.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\cracked_earth02.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\cracked_earth02.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\cracked_earth02.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\errosion01.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\errosion01.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\errosion01.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\errosion02.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\errosion02.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\errosion02.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\flat_mountain01.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\flat_mountain01.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\flat_mountain01.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\HeightmapTexture.preset
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\HeightmapTexture.preset
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\HeightmapTexture.preset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\HeightmapTexture.preset.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\HeightmapTexture.preset.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\HeightmapTexture.preset.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\island01.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\island01.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\island01.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain01.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain01.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain01.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain02.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain02.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain02.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain03.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain03.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain03.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain04.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain04.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain04.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain05.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain05.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain05.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain06.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain06.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain06.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain07.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain07.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain07.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain08.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain08.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\mountain08.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau01.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau01.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau01.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau02.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau02.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau02.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau03.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau03.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\plateau03.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge_edge01.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge_edge01.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge_edge01.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge01.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge01.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge01.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge02.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge02.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge02.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge03.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge03.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge03.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge04.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge04.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge04.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge05.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge05.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge05.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge06.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge06.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\ridge06.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\rolling_hills01.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\rolling_hills01.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\rolling_hills01.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\soft_peaks01.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\soft_peaks01.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\soft_peaks01.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\volcanic.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\volcanic.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\volcanic.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\volcano01.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\volcano01.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\volcano01.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\white_square.tif.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\white_square.tif.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\BrushTextures\white_square.tif.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_canyon03.brush
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_canyon03.brush
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_canyon03.brush
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_crackedground01.brush
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_crackedground01.brush
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_crackedground01.brush
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_volcano02.brush
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_volcano02.brush
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainBrushes\terrainstamp_volcano02.brush
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\dirt.terrainlayer
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\dirt.terrainlayer
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\dirt.terrainlayer
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\moss.terrainlayer
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\moss.terrainlayer
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\moss.terrainlayer
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\rock.terrainlayer
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\rock.terrainlayer
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\rock.terrainlayer
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\sand.terrainlayer
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\sand.terrainlayer
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\sand.terrainlayer
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\scree.terrainlayer
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\scree.terrainlayer
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainLayers\scree.terrainlayer
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainTextures\Materials\sand_albedo.mat
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainTextures\Materials\sand_albedo.mat
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\TerrainTextures\Materials\sand_albedo.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt.meta
+    projectPath: Assets\Terrain\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Terrain\Terrain_0_0_b6bf2b11-159a-4549-b8a1-49d4d3f3087d.asset
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Terrain\Terrain_0_0_b6bf2b11-159a-4549-b8a1-49d4d3f3087d.asset
+    projectPath: Assets\Terrain\Terrain_0_0_b6bf2b11-159a-4549-b8a1-49d4d3f3087d.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Textures\PineLeafTexture.mat
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Textures\PineLeafTexture.mat
+    projectPath: Assets\Textures\PineLeafTexture.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Textures\PineTreeBarkBrown.mat
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Textures\PineTreeBarkBrown.mat
+    projectPath: Assets\Textures\PineTreeBarkBrown.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Tree_Textures\New Material.mat
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Tree_Textures\New Material.mat
+    projectPath: Assets\Tree_Textures\New Material.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree_Textures\New Material.mat.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Tree_Textures\New Material.mat.meta
+    projectPath: Assets\Tree_Textures\New Material.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree_Textures\normal_specular.png.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\Tree_Textures\normal_specular.png.meta
+    projectPath: Assets\Tree_Textures\normal_specular.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\URPTerrainMat.mat
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\URPTerrainMat.mat
+    projectPath: Assets\URPTerrainMat.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\URPTerrainMat.mat.meta
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Assets\URPTerrainMat.mat.meta
+    projectPath: Assets\URPTerrainMat.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\AnnotationManager
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Library\AnnotationManager
+    projectPath: Library\AnnotationManager
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\APIUpdater\project-dependencies.graph
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
       1\Lesson1_V3\Take4\Library\APIUpdater\project-dependencies.graph
@@ -30,626 +618,87 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\00\007ae0430f3a286bb799fad96d377823
+  - path: Library\Artifacts\3b\3b3b9e51257c79167270e4e74b4a1e39
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\00\007ae0430f3a286bb799fad96d377823
-    projectPath: Library\Artifacts\00\007ae0430f3a286bb799fad96d377823
+      1\Lesson1_V3\Take4\Library\Artifacts\3b\3b3b9e51257c79167270e4e74b4a1e39
+    projectPath: Library\Artifacts\3b\3b3b9e51257c79167270e4e74b4a1e39
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\00\00d785f4347fdc8173e81bd8a46e5b03
+  - path: Library\Artifacts\97\974ac254ec751bf8d45d6586e8daa241
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\00\00d785f4347fdc8173e81bd8a46e5b03
-    projectPath: Library\Artifacts\00\00d785f4347fdc8173e81bd8a46e5b03
+      1\Lesson1_V3\Take4\Library\Artifacts\97\974ac254ec751bf8d45d6586e8daa241
+    projectPath: Library\Artifacts\97\974ac254ec751bf8d45d6586e8daa241
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\01\01a427beffbffa01523f2d2a1ec6528b
+  - path: Library\Artifacts\b8\b86ba4c4ef95087f2b64968737d2b40f
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\01\01a427beffbffa01523f2d2a1ec6528b
-    projectPath: Library\Artifacts\01\01a427beffbffa01523f2d2a1ec6528b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\04\04b4e8b348c1b57d2111d5a27d2a67f8
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\04\04b4e8b348c1b57d2111d5a27d2a67f8
-    projectPath: Library\Artifacts\04\04b4e8b348c1b57d2111d5a27d2a67f8
+      1\Lesson1_V3\Take4\Library\Artifacts\b8\b86ba4c4ef95087f2b64968737d2b40f
+    projectPath: Library\Artifacts\b8\b86ba4c4ef95087f2b64968737d2b40f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\04\04ee3fd1709c0e78a9bd586ec3c04775
+  - path: Library\CurrentLayout-default.dwlt
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\04\04ee3fd1709c0e78a9bd586ec3c04775
-    projectPath: Library\Artifacts\04\04ee3fd1709c0e78a9bd586ec3c04775
+      1\Lesson1_V3\Take4\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\12\12beb41685ef52b329388026b1dd5624
+    workTreeStatus: 3
+  - path: Library\EditorUserSettings.asset
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\12\12beb41685ef52b329388026b1dd5624
-    projectPath: Library\Artifacts\12\12beb41685ef52b329388026b1dd5624
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\14\14357a0d7a32885be03781825611c60e
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\14\14357a0d7a32885be03781825611c60e
-    projectPath: Library\Artifacts\14\14357a0d7a32885be03781825611c60e
+      1\Lesson1_V3\Take4\Library\EditorUserSettings.asset
+    projectPath: Library\EditorUserSettings.asset
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\16\16cdf98d7f5625fc6ebaef9fca1bd1e1
+    workTreeStatus: 3
+  - path: Library\expandedItems
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\16\16cdf98d7f5625fc6ebaef9fca1bd1e1
-    projectPath: Library\Artifacts\16\16cdf98d7f5625fc6ebaef9fca1bd1e1
+      1\Lesson1_V3\Take4\Library\expandedItems
+    projectPath: Library\expandedItems
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\18\18fbe0e8fc6b56b30e5ce43a70709422
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\18\18fbe0e8fc6b56b30e5ce43a70709422
-    projectPath: Library\Artifacts\18\18fbe0e8fc6b56b30e5ce43a70709422
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1a\1aa0ee924f0cbfa6fcd47d38f6f9c3bf
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\1a\1aa0ee924f0cbfa6fcd47d38f6f9c3bf
-    projectPath: Library\Artifacts\1a\1aa0ee924f0cbfa6fcd47d38f6f9c3bf
+      1\Lesson1_V3\Take4\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1d\1db8b6fab1e8e7ac150e27cd45693471
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\1d\1db8b6fab1e8e7ac150e27cd45693471
-    projectPath: Library\Artifacts\1d\1db8b6fab1e8e7ac150e27cd45693471
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1e\1ee3255d1a42e7fd6d08da668902f6b5
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\1e\1ee3255d1a42e7fd6d08da668902f6b5
-    projectPath: Library\Artifacts\1e\1ee3255d1a42e7fd6d08da668902f6b5
+      1\Lesson1_V3\Take4\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1f\1fb2f7cf1bc2424c3f0018b76a17db00
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\1f\1fb2f7cf1bc2424c3f0018b76a17db00
-    projectPath: Library\Artifacts\1f\1fb2f7cf1bc2424c3f0018b76a17db00
+      1\Lesson1_V3\Take4\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\20\2019849222b974d09b66d97bef9cb692
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\20\2019849222b974d09b66d97bef9cb692
-    projectPath: Library\Artifacts\20\2019849222b974d09b66d97bef9cb692
+      1\Lesson1_V3\Take4\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\21\21953b435e0403d63587032234783345
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\21\21953b435e0403d63587032234783345
-    projectPath: Library\Artifacts\21\21953b435e0403d63587032234783345
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\25\25ee9a054b78c59045e195a6cbefd886
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\25\25ee9a054b78c59045e195a6cbefd886
-    projectPath: Library\Artifacts\25\25ee9a054b78c59045e195a6cbefd886
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\28\28d7de43e1df20078d2a19bd45bb7730
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\28\28d7de43e1df20078d2a19bd45bb7730
-    projectPath: Library\Artifacts\28\28d7de43e1df20078d2a19bd45bb7730
+      1\Lesson1_V3\Take4\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2c\2cb7629c9b180d38582f5aabd5508aee
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\2c\2cb7629c9b180d38582f5aabd5508aee
-    projectPath: Library\Artifacts\2c\2cb7629c9b180d38582f5aabd5508aee
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\33\33852d236a8bb6746a1ea7ca7efb2475
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\33\33852d236a8bb6746a1ea7ca7efb2475
-    projectPath: Library\Artifacts\33\33852d236a8bb6746a1ea7ca7efb2475
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\36\36cf0fe7e9e2043eca5fd26cedd4f65f
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\36\36cf0fe7e9e2043eca5fd26cedd4f65f
-    projectPath: Library\Artifacts\36\36cf0fe7e9e2043eca5fd26cedd4f65f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\39\39857ba0a160ad57bd02db0e5d1019bc
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\39\39857ba0a160ad57bd02db0e5d1019bc
-    projectPath: Library\Artifacts\39\39857ba0a160ad57bd02db0e5d1019bc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3d\3d078f85fba6f2597c32dbcff8902c4f
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\3d\3d078f85fba6f2597c32dbcff8902c4f
-    projectPath: Library\Artifacts\3d\3d078f85fba6f2597c32dbcff8902c4f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\40\40c3dbdc20df0817acd922e9a1e67ee4
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\40\40c3dbdc20df0817acd922e9a1e67ee4
-    projectPath: Library\Artifacts\40\40c3dbdc20df0817acd922e9a1e67ee4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\42\4284889ad946eb99733feb14a82e3b18
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\42\4284889ad946eb99733feb14a82e3b18
-    projectPath: Library\Artifacts\42\4284889ad946eb99733feb14a82e3b18
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\47\475ed46c046e28c440042307bb323fd9
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\47\475ed46c046e28c440042307bb323fd9
-    projectPath: Library\Artifacts\47\475ed46c046e28c440042307bb323fd9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\47\47995a5eb470a6a2cc685a339003234b
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\47\47995a5eb470a6a2cc685a339003234b
-    projectPath: Library\Artifacts\47\47995a5eb470a6a2cc685a339003234b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\47\47f1d5dea6e935e276bd02aa27350455
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\47\47f1d5dea6e935e276bd02aa27350455
-    projectPath: Library\Artifacts\47\47f1d5dea6e935e276bd02aa27350455
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4c\4c18d5ea557d48b3e26c194789fcd459
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\4c\4c18d5ea557d48b3e26c194789fcd459
-    projectPath: Library\Artifacts\4c\4c18d5ea557d48b3e26c194789fcd459
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\50\500df900c29a15bca5e5ccae0be75929
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\50\500df900c29a15bca5e5ccae0be75929
-    projectPath: Library\Artifacts\50\500df900c29a15bca5e5ccae0be75929
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\54\54bf61bbb2ef44f9c17d7593c8cd24a6
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\54\54bf61bbb2ef44f9c17d7593c8cd24a6
-    projectPath: Library\Artifacts\54\54bf61bbb2ef44f9c17d7593c8cd24a6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\59\59bf546b8274280b94b053a8c2cdabfb
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\59\59bf546b8274280b94b053a8c2cdabfb
-    projectPath: Library\Artifacts\59\59bf546b8274280b94b053a8c2cdabfb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5b\5be5f76d9f4f69d6722c90c1af955f58
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\5b\5be5f76d9f4f69d6722c90c1af955f58
-    projectPath: Library\Artifacts\5b\5be5f76d9f4f69d6722c90c1af955f58
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\65\6519296ab06e0b5119a100f35c731349
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\65\6519296ab06e0b5119a100f35c731349
-    projectPath: Library\Artifacts\65\6519296ab06e0b5119a100f35c731349
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\66\6661e2b44599279f27d439802b616487
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\66\6661e2b44599279f27d439802b616487
-    projectPath: Library\Artifacts\66\6661e2b44599279f27d439802b616487
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\66\66bf6fedbc686d7e182814ee2fa57e07
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\66\66bf6fedbc686d7e182814ee2fa57e07
-    projectPath: Library\Artifacts\66\66bf6fedbc686d7e182814ee2fa57e07
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6f\6f626ac273ea4556f5fcaf2402a749e4
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\6f\6f626ac273ea4556f5fcaf2402a749e4
-    projectPath: Library\Artifacts\6f\6f626ac273ea4556f5fcaf2402a749e4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\70\70ce61a9c58faccb1c2bb4bd5439daaa
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\70\70ce61a9c58faccb1c2bb4bd5439daaa
-    projectPath: Library\Artifacts\70\70ce61a9c58faccb1c2bb4bd5439daaa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\71\7164cd4ed6bc4fa6e59deafe884756c1
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\71\7164cd4ed6bc4fa6e59deafe884756c1
-    projectPath: Library\Artifacts\71\7164cd4ed6bc4fa6e59deafe884756c1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\71\71c291163e65c6490b7fbf71be6c53c6
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\71\71c291163e65c6490b7fbf71be6c53c6
-    projectPath: Library\Artifacts\71\71c291163e65c6490b7fbf71be6c53c6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\73\73e93ea5666ce8acc87234015f2d213b
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\73\73e93ea5666ce8acc87234015f2d213b
-    projectPath: Library\Artifacts\73\73e93ea5666ce8acc87234015f2d213b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\74\747ecf13598ef51287c187b24f40d0ff
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\74\747ecf13598ef51287c187b24f40d0ff
-    projectPath: Library\Artifacts\74\747ecf13598ef51287c187b24f40d0ff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\79\797832ffefaac237026a0b6c4fc6d1f5
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\79\797832ffefaac237026a0b6c4fc6d1f5
-    projectPath: Library\Artifacts\79\797832ffefaac237026a0b6c4fc6d1f5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7b\7b09c25759ff5fb727d22485c6c32a38
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\7b\7b09c25759ff5fb727d22485c6c32a38
-    projectPath: Library\Artifacts\7b\7b09c25759ff5fb727d22485c6c32a38
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7d\7d6a103fd5c7d1bc1c2a92eb60d26d39
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\7d\7d6a103fd5c7d1bc1c2a92eb60d26d39
-    projectPath: Library\Artifacts\7d\7d6a103fd5c7d1bc1c2a92eb60d26d39
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7e\7e3793a628d1a45dbb42ab0fa1b94a3c
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\7e\7e3793a628d1a45dbb42ab0fa1b94a3c
-    projectPath: Library\Artifacts\7e\7e3793a628d1a45dbb42ab0fa1b94a3c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\80\8059d0e6f257821a5303e0df6cba4a4a
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\80\8059d0e6f257821a5303e0df6cba4a4a
-    projectPath: Library\Artifacts\80\8059d0e6f257821a5303e0df6cba4a4a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\83\83ecb859818932c5ef410a907bd22e48
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\83\83ecb859818932c5ef410a907bd22e48
-    projectPath: Library\Artifacts\83\83ecb859818932c5ef410a907bd22e48
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\84\84783616129d467e83d5d95cd7b3ec64
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\84\84783616129d467e83d5d95cd7b3ec64
-    projectPath: Library\Artifacts\84\84783616129d467e83d5d95cd7b3ec64
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\85\852c4690576936cab41f5acdb238bf88
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\85\852c4690576936cab41f5acdb238bf88
-    projectPath: Library\Artifacts\85\852c4690576936cab41f5acdb238bf88
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8b\8b0a390b2fba97e063c25c755f303ded
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\8b\8b0a390b2fba97e063c25c755f303ded
-    projectPath: Library\Artifacts\8b\8b0a390b2fba97e063c25c755f303ded
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8c\8c692ec8b13acf21f6457fa21176dd59
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\8c\8c692ec8b13acf21f6457fa21176dd59
-    projectPath: Library\Artifacts\8c\8c692ec8b13acf21f6457fa21176dd59
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\8d\8d3aeccf09e2ec95ef4b0a6b28fce6d5
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\8d\8d3aeccf09e2ec95ef4b0a6b28fce6d5
-    projectPath: Library\Artifacts\8d\8d3aeccf09e2ec95ef4b0a6b28fce6d5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\90\9080ff2b6ca80852f028960c6bde8504
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\90\9080ff2b6ca80852f028960c6bde8504
-    projectPath: Library\Artifacts\90\9080ff2b6ca80852f028960c6bde8504
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\93\9377a9ec80b6f69ed870ece33197520b
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\93\9377a9ec80b6f69ed870ece33197520b
-    projectPath: Library\Artifacts\93\9377a9ec80b6f69ed870ece33197520b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\94\9454f92940e11450a20a5a2b77e5c5e0
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\94\9454f92940e11450a20a5a2b77e5c5e0
-    projectPath: Library\Artifacts\94\9454f92940e11450a20a5a2b77e5c5e0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\94\94f73ec47766b47d6f2fae2c5a7a5bf5
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\94\94f73ec47766b47d6f2fae2c5a7a5bf5
-    projectPath: Library\Artifacts\94\94f73ec47766b47d6f2fae2c5a7a5bf5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\96\960c8f6cf4c614ffce7cdf99a9d7f5cd
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\96\960c8f6cf4c614ffce7cdf99a9d7f5cd
-    projectPath: Library\Artifacts\96\960c8f6cf4c614ffce7cdf99a9d7f5cd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\99\9925c6e225e213570f2ea218837f3d6f
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\99\9925c6e225e213570f2ea218837f3d6f
-    projectPath: Library\Artifacts\99\9925c6e225e213570f2ea218837f3d6f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a1\a17946535ede33ccc66787f095615574
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\a1\a17946535ede33ccc66787f095615574
-    projectPath: Library\Artifacts\a1\a17946535ede33ccc66787f095615574
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a2\a2a1fe9a7d11b095b6bd4392c9f1e60d
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\a2\a2a1fe9a7d11b095b6bd4392c9f1e60d
-    projectPath: Library\Artifacts\a2\a2a1fe9a7d11b095b6bd4392c9f1e60d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a2\a2d917f760ba07d89a27fbc2b00cb2b7
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\a2\a2d917f760ba07d89a27fbc2b00cb2b7
-    projectPath: Library\Artifacts\a2\a2d917f760ba07d89a27fbc2b00cb2b7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a3\a39346de7559848fb75bad0961ef8e5d
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\a3\a39346de7559848fb75bad0961ef8e5d
-    projectPath: Library\Artifacts\a3\a39346de7559848fb75bad0961ef8e5d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a8\a8d87e00d712ffd477175f6416645715
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\a8\a8d87e00d712ffd477175f6416645715
-    projectPath: Library\Artifacts\a8\a8d87e00d712ffd477175f6416645715
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b1\b1b1e383f71eec8642e28dddc75eddcf
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\b1\b1b1e383f71eec8642e28dddc75eddcf
-    projectPath: Library\Artifacts\b1\b1b1e383f71eec8642e28dddc75eddcf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b7\b7ee97fb628fa648b72e8aeb60ff9bfa
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\b7\b7ee97fb628fa648b72e8aeb60ff9bfa
-    projectPath: Library\Artifacts\b7\b7ee97fb628fa648b72e8aeb60ff9bfa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b9\b9b9f486bc6449c1db2614b0acae276c
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\b9\b9b9f486bc6449c1db2614b0acae276c
-    projectPath: Library\Artifacts\b9\b9b9f486bc6449c1db2614b0acae276c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bf\bf10bc0080b32deed62aa1042a454d85
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\bf\bf10bc0080b32deed62aa1042a454d85
-    projectPath: Library\Artifacts\bf\bf10bc0080b32deed62aa1042a454d85
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c5\c5f3bc23f39b68473ce97ebd145e31f7
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\c5\c5f3bc23f39b68473ce97ebd145e31f7
-    projectPath: Library\Artifacts\c5\c5f3bc23f39b68473ce97ebd145e31f7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c5\c5f3e4a017417bc137fda28cfd5a6b7b
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\c5\c5f3e4a017417bc137fda28cfd5a6b7b
-    projectPath: Library\Artifacts\c5\c5f3e4a017417bc137fda28cfd5a6b7b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c7\c731fa5b8234e8acd0558b3aee1de4ea
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\c7\c731fa5b8234e8acd0558b3aee1de4ea
-    projectPath: Library\Artifacts\c7\c731fa5b8234e8acd0558b3aee1de4ea
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c9\c9d2d78a2c8f588d24864f80062a01d5
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\c9\c9d2d78a2c8f588d24864f80062a01d5
-    projectPath: Library\Artifacts\c9\c9d2d78a2c8f588d24864f80062a01d5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ca\ca7cd8f2f39096b113e3a0ffc1fead84
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\ca\ca7cd8f2f39096b113e3a0ffc1fead84
-    projectPath: Library\Artifacts\ca\ca7cd8f2f39096b113e3a0ffc1fead84
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cb\cb0792a51f24d2998080e5e3bd48ac8c
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\cb\cb0792a51f24d2998080e5e3bd48ac8c
-    projectPath: Library\Artifacts\cb\cb0792a51f24d2998080e5e3bd48ac8c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cd\cdb438c8f2ca82f2971535f818bb1d70
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\cd\cdb438c8f2ca82f2971535f818bb1d70
-    projectPath: Library\Artifacts\cd\cdb438c8f2ca82f2971535f818bb1d70
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ce\ce8a54990396b2d6ea3114e8f45bf1db
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\ce\ce8a54990396b2d6ea3114e8f45bf1db
-    projectPath: Library\Artifacts\ce\ce8a54990396b2d6ea3114e8f45bf1db
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ce\ced3370708b0885c08e24786c45a6541
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\ce\ced3370708b0885c08e24786c45a6541
-    projectPath: Library\Artifacts\ce\ced3370708b0885c08e24786c45a6541
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d2\d24c30f860307c6f207563a00439c8bd
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\d2\d24c30f860307c6f207563a00439c8bd
-    projectPath: Library\Artifacts\d2\d24c30f860307c6f207563a00439c8bd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d4\d42890ddf70a7d38c29d5a8a0ae952d9
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\d4\d42890ddf70a7d38c29d5a8a0ae952d9
-    projectPath: Library\Artifacts\d4\d42890ddf70a7d38c29d5a8a0ae952d9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d8\d833a099373833ef6368f80b80e2824a
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\d8\d833a099373833ef6368f80b80e2824a
-    projectPath: Library\Artifacts\d8\d833a099373833ef6368f80b80e2824a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d9\d958f2e9dab5123bcee96eeb2e83b462
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\d9\d958f2e9dab5123bcee96eeb2e83b462
-    projectPath: Library\Artifacts\d9\d958f2e9dab5123bcee96eeb2e83b462
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e2\e2d691a35aacd4a91b3207f8c7e35788
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\e2\e2d691a35aacd4a91b3207f8c7e35788
-    projectPath: Library\Artifacts\e2\e2d691a35aacd4a91b3207f8c7e35788
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e6\e6957fa7b815c300c37985d6d82c020b
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\e6\e6957fa7b815c300c37985d6d82c020b
-    projectPath: Library\Artifacts\e6\e6957fa7b815c300c37985d6d82c020b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e9\e954548a948dab8cbbf8398510c6b25d
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\e9\e954548a948dab8cbbf8398510c6b25d
-    projectPath: Library\Artifacts\e9\e954548a948dab8cbbf8398510c6b25d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ed\ed02077a793602123c9b8e9891e5cc68
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\ed\ed02077a793602123c9b8e9891e5cc68
-    projectPath: Library\Artifacts\ed\ed02077a793602123c9b8e9891e5cc68
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f1\f1e2b3174c84ed3e072141d0cd6eed98
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\f1\f1e2b3174c84ed3e072141d0cd6eed98
-    projectPath: Library\Artifacts\f1\f1e2b3174c84ed3e072141d0cd6eed98
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f9\f940d6955329f627a08c586798357395
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\f9\f940d6955329f627a08c586798357395
-    projectPath: Library\Artifacts\f9\f940d6955329f627a08c586798357395
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f9\f9da6ec581a885334c981a1c5f50ed13
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\f9\f9da6ec581a885334c981a1c5f50ed13
-    projectPath: Library\Artifacts\f9\f9da6ec581a885334c981a1c5f50ed13
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ff\ff5e92aec44213c1c7a8124daf4ca0f7
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\Artifacts\ff\ff5e92aec44213c1c7a8124daf4ca0f7
-    projectPath: Library\Artifacts\ff\ff5e92aec44213c1c7a8124daf4ca0f7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\EditorInstance.json
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -856,6 +905,13 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptMapper
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ShaderCache.db
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
       1\Lesson1_V3\Take4\Library\ShaderCache.db
@@ -863,48 +919,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\0\03b80393346e1a428641a8476a9b13b9.bin
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ShaderCache\0\03b80393346e1a428641a8476a9b13b9.bin
-    projectPath: Library\ShaderCache\0\03b80393346e1a428641a8476a9b13b9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\0450c0475a80eea85e374009d0b01503.bin
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ShaderCache\0\0450c0475a80eea85e374009d0b01503.bin
-    projectPath: Library\ShaderCache\0\0450c0475a80eea85e374009d0b01503.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\34f2555dca9d0a365c710a0e99c803ce.bin
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ShaderCache\3\34f2555dca9d0a365c710a0e99c803ce.bin
-    projectPath: Library\ShaderCache\3\34f2555dca9d0a365c710a0e99c803ce.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\3a9627ada704ddc3605f5215ae735be2.bin
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ShaderCache\3\3a9627ada704ddc3605f5215ae735be2.bin
-    projectPath: Library\ShaderCache\3\3a9627ada704ddc3605f5215ae735be2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\a\a48a6350e09f651f361424d421d07a2f.bin
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ShaderCache\a\a48a6350e09f651f361424d421d07a2f.bin
-    projectPath: Library\ShaderCache\a\a48a6350e09f651f361424d421d07a2f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\d\dfde0633e35cb634d105eb52ee7defaf.bin
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ShaderCache\d\dfde0633e35cb634d105eb52ee7defaf.bin
-    projectPath: Library\ShaderCache\d\dfde0633e35cb634d105eb52ee7defaf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
       1\Lesson1_V3\Take4\Library\ShaderCache\EditorEncounteredVariants
@@ -919,6 +933,41 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
+      1\Lesson1_V3\Take4\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
       1\Lesson1_V3\Take4\Library\SourceAssetDB
@@ -926,213 +975,66 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\SourceAssetDB-lock
+  - path: Library\StateCache\Hierarchy\4c969a-mainStage.json
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\SourceAssetDB-lock
-    projectPath: Library\SourceAssetDB-lock
+      1\Lesson1_V3\Take4\Library\StateCache\Hierarchy\4c969a-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\4c969a-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\UnityLockfile
+  - path: Library\StateCache\SceneView\cc2798-mainStage.json
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
+      1\Lesson1_V3\Take4\Library\StateCache\SceneView\cc2798-mainStage.json
+    projectPath: Library\StateCache\SceneView\cc2798-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\UnityTempFile-0fa82b028d5f9f74b81827d7264d8112
+  - path: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-0fa82b028d5f9f74b81827d7264d8112
-    projectPath: Temp\UnityTempFile-0fa82b028d5f9f74b81827d7264d8112
+      1\Lesson1_V3\Take4\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-1a6b67d9a31fc53438f27000402d6ed2
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\UIElements\EditorWindows\UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow.pref
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-1a6b67d9a31fc53438f27000402d6ed2
-    projectPath: Temp\UnityTempFile-1a6b67d9a31fc53438f27000402d6ed2
+      1\Lesson1_V3\Take4\Library\UIElements\EditorWindows\UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow.pref
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-27d568d8597ac7248861e70bb0e0f270
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-27d568d8597ac7248861e70bb0e0f270
-    projectPath: Temp\UnityTempFile-27d568d8597ac7248861e70bb0e0f270
+      1\Lesson1_V3\Take4\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-28a66174936e9f846b21befd54493163
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-28a66174936e9f846b21befd54493163
-    projectPath: Temp\UnityTempFile-28a66174936e9f846b21befd54493163
+      1\Lesson1_V3\Take4\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-2ec978af051e45e429475268547cd472
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Packages\manifest.json
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-2ec978af051e45e429475268547cd472
-    projectPath: Temp\UnityTempFile-2ec978af051e45e429475268547cd472
+      1\Lesson1_V3\Take4\Packages\manifest.json
+    projectPath: Packages\manifest.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-326fb58bdb899044f896c8028b44cf67
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Packages\packages-lock.json
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-326fb58bdb899044f896c8028b44cf67
-    projectPath: Temp\UnityTempFile-326fb58bdb899044f896c8028b44cf67
+      1\Lesson1_V3\Take4\Packages\packages-lock.json
+    projectPath: Packages\packages-lock.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-3a4de6951e3918d45bb30247884a3174
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\URPProjectSettings.asset
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-3a4de6951e3918d45bb30247884a3174
-    projectPath: Temp\UnityTempFile-3a4de6951e3918d45bb30247884a3174
+      1\Lesson1_V3\Take4\ProjectSettings\URPProjectSettings.asset
+    projectPath: ProjectSettings\URPProjectSettings.asset
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-3f3477d396274344ba706f936a10ec00
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-3f3477d396274344ba706f936a10ec00
-    projectPath: Temp\UnityTempFile-3f3477d396274344ba706f936a10ec00
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-46e45920c9e28504784dfd5f8232d36b
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-46e45920c9e28504784dfd5f8232d36b
-    projectPath: Temp\UnityTempFile-46e45920c9e28504784dfd5f8232d36b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4ae87fce8285edf47baa9c9954afa9a4
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-4ae87fce8285edf47baa9c9954afa9a4
-    projectPath: Temp\UnityTempFile-4ae87fce8285edf47baa9c9954afa9a4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-51547cdd112a9be4eabc73056632669f
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-51547cdd112a9be4eabc73056632669f
-    projectPath: Temp\UnityTempFile-51547cdd112a9be4eabc73056632669f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-5b3d4ddf876134c469c219591144989c
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-5b3d4ddf876134c469c219591144989c
-    projectPath: Temp\UnityTempFile-5b3d4ddf876134c469c219591144989c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-5e251fa838eb6074b814fab2a5bf5112
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-5e251fa838eb6074b814fab2a5bf5112
-    projectPath: Temp\UnityTempFile-5e251fa838eb6074b814fab2a5bf5112
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-69e94203f4ce3954cac992d33ccdc789
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-69e94203f4ce3954cac992d33ccdc789
-    projectPath: Temp\UnityTempFile-69e94203f4ce3954cac992d33ccdc789
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-77febd570e1e34b4ebd1d3aacac45e0e
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-77febd570e1e34b4ebd1d3aacac45e0e
-    projectPath: Temp\UnityTempFile-77febd570e1e34b4ebd1d3aacac45e0e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-7f60f9b3ceab2c0409173010f49d76a2
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-7f60f9b3ceab2c0409173010f49d76a2
-    projectPath: Temp\UnityTempFile-7f60f9b3ceab2c0409173010f49d76a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8778a456f6f5740468a3a2a6e3a714c8
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-8778a456f6f5740468a3a2a6e3a714c8
-    projectPath: Temp\UnityTempFile-8778a456f6f5740468a3a2a6e3a714c8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9734716927c710f4fac1de940d556efe
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-9734716927c710f4fac1de940d556efe
-    projectPath: Temp\UnityTempFile-9734716927c710f4fac1de940d556efe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-998e6ce38566e36488312dd73fcd39f7
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-998e6ce38566e36488312dd73fcd39f7
-    projectPath: Temp\UnityTempFile-998e6ce38566e36488312dd73fcd39f7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9b1aaa9d5a6e5b940822461189d0b882
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-9b1aaa9d5a6e5b940822461189d0b882
-    projectPath: Temp\UnityTempFile-9b1aaa9d5a6e5b940822461189d0b882
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ab51d6e888b60a340b3c6a34728f9676
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-ab51d6e888b60a340b3c6a34728f9676
-    projectPath: Temp\UnityTempFile-ab51d6e888b60a340b3c6a34728f9676
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b05d21bf6b19afd438b266fcd0867044
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-b05d21bf6b19afd438b266fcd0867044
-    projectPath: Temp\UnityTempFile-b05d21bf6b19afd438b266fcd0867044
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d24d00221ed003448ae0a06be8f38e65
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-d24d00221ed003448ae0a06be8f38e65
-    projectPath: Temp\UnityTempFile-d24d00221ed003448ae0a06be8f38e65
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d36e1b8a56fb1dc4eb9f1c538a32ef5d
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-d36e1b8a56fb1dc4eb9f1c538a32ef5d
-    projectPath: Temp\UnityTempFile-d36e1b8a56fb1dc4eb9f1c538a32ef5d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-dae069af5b1b8f44aa6e0a10f65e1dd0
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-dae069af5b1b8f44aa6e0a10f65e1dd0
-    projectPath: Temp\UnityTempFile-dae069af5b1b8f44aa6e0a10f65e1dd0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f6b7dcc914708164ba090275b4da44a0
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-f6b7dcc914708164ba090275b4da44a0
-    projectPath: Temp\UnityTempFile-f6b7dcc914708164ba090275b4da44a0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f8599ccceb9a08541b646ff5b3cfb249
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-f8599ccceb9a08541b646ff5b3cfb249
-    projectPath: Temp\UnityTempFile-f8599ccceb9a08541b646ff5b3cfb249
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fbd7fafe0b105704bbdba1a5352590ce
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Temp\UnityTempFile-fbd7fafe0b105704bbdba1a5352590ce
-    projectPath: Temp\UnityTempFile-fbd7fafe0b105704bbdba1a5352590ce
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-12-12T15:29:58.028-08:00
+  lastUpdatedAtString: 2020-12-12T17:23:47.777-08:00
   initializedAtString: 2020-12-12T08:33:42.909-08:00
   entries:
   - path: .vs\Take4\v16\.suo
@@ -23,87 +23,10 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Music Tracks.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Music Tracks.meta
-    projectPath: Assets\Music Tracks.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Music Tracks\Chunky_Monkey.wav
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Music Tracks\Chunky_Monkey.wav
-    projectPath: Assets\Music Tracks\Chunky_Monkey.wav
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Music Tracks\Chunky_Monkey.wav.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Music Tracks\Chunky_Monkey.wav.meta
-    projectPath: Assets\Music Tracks\Chunky_Monkey.wav.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\Scenes\EndScene.unity
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
       1\Lesson1_V3\Take4\Assets\Scenes\EndScene.unity
     projectPath: Assets\Scenes\EndScene.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\RiverLevel.unity
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Scenes\RiverLevel.unity
-    projectPath: Assets\Scenes\RiverLevel.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\StartScene.unity
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Scenes\StartScene.unity
-    projectPath: Assets\Scenes\StartScene.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\AudioManager.cs
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Scripts\AudioManager.cs
-    projectPath: Assets\Scripts\AudioManager.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\AudioManager.cs.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Scripts\AudioManager.cs.meta
-    projectPath: Assets\Scripts\AudioManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\PauseMenuManager.cs
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Scripts\PauseMenuManager.cs
-    projectPath: Assets\Scripts\PauseMenuManager.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\PauseMenuManager.cs.meta
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Scripts\PauseMenuManager.cs.meta
-    projectPath: Assets\Scripts\PauseMenuManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\ScoreList.cs
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Assets\Scripts\ScoreList.cs
-    projectPath: Assets\Scripts\ScoreList.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -156,24 +79,10 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
+  - path: Library\SceneVisibilityState.asset
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      1\Lesson1_V3\Take4\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -188,20 +97,6 @@ MonoBehaviour:
     fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
       1\Lesson1_V3\Take4\Library\StateCache\Hierarchy\4c969a-mainStage.json
     projectPath: Library\StateCache\Hierarchy\4c969a-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\cc2798-mainStage.json
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\Library\StateCache\SceneView\cc2798-mainStage.json
-    projectPath: Library\StateCache\SceneView\cc2798-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: test.data
-    fullPath: C:\Users\Crazy\Desktop\Fall '20 Classes\Mult 154 Unity\Unity Lesson
-      1\Lesson1_V3\Take4\test.data
-    projectPath: test.data
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
